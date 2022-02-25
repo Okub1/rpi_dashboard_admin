@@ -28,6 +28,7 @@
     "dependencies": {
         "@fortawesome/fontawesome-free": "^5.15.4",
         "font-awesome": "^4.7.0",
+        "material-components-web": "^13.0.0",
         "react-animate-height": "^2.0.23",
         "react-transition-group": "^4.4.2"
     }
